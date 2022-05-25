@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/formvalidation/static/css/main.f593584c.css",
+    "main.js": "/formvalidation/static/js/main.adb6a866.js",
+    "static/media/bg.png": "/formvalidation/static/media/bg.eda040e4891e91406285.png",
+    "index.html": "/formvalidation/index.html",
+    "main.f593584c.css.map": "/formvalidation/static/css/main.f593584c.css.map",
+    "main.adb6a866.js.map": "/formvalidation/static/js/main.adb6a866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f593584c.css",
+    "static/js/main.adb6a866.js"
+  ]
+}
